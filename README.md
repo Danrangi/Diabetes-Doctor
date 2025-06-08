@@ -1,4 +1,4 @@
-WMC Doctor – Diabetes Prediction Web App
+Diabetes Doctor – Diabetes Prediction Web App
 
 This project uses a Weighted Median Classifier (WMC) to predict the likelihood of diabetes based on patient health data. It combines multiple ML models using their weighted accuracy to make more reliable predictions.
 

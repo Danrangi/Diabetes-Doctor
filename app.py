@@ -1,6 +1,6 @@
 import streamlit as st
 import numpy as np
-import joblib
+import joblib 
 
 # Load models and scaler
 clf1 = joblib.load("logistic_model.pkl")
